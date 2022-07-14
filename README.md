@@ -16,4 +16,8 @@ Try and use LOGGED IN as a state, or an apple music state / spotify state
 - Get the apple music api to work 
 
 ## Database?
--Store information about the user
+- Store information about the user
+
+
+
+![wireframe](https://user-images.githubusercontent.com/88978036/179086294-4e161782-d8d7-40b5-a436-571d8aca340b.png)
